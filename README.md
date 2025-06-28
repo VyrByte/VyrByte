@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/TeoremalDev">
+  <a href="https://github.com/VyrByte">
     <img src="https://img.shields.io/badge/5%2B_years_of_experience-0D1117?style=for-the-badge" />
   </a>
-  <a href="https://github.com/TeoremalDev">
+  <a href="https://github.com/VyrByte">
     <img src="https://img.shields.io/badge/Systems_Engineering_Student-0D1117?style=for-the-badge" />
   </a>
 </div>
