@@ -73,16 +73,16 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TeoremalDev&show_icons=true&count_private=true&hide_border=true&title_color=6A9FB5&icon_color=6A9FB5&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeoremalDev&layout=compact&hide_border=true&title_color=6A9FB5&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VyrByte&show_icons=true&count_private=true&hide_border=true&title_color=6A9FB5&icon_color=6A9FB5&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyrByte&layout=compact&hide_border=true&title_color=6A9FB5&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TeoremalDev&theme=github-dark-blue&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VyrByte&theme=github-dark-blue&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TeoremalDev&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VyrByte&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
