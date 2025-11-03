@@ -4,9 +4,6 @@
 
 <div align="center">
   <a href="https://github.com/VyrByte">
-    <img src="https://img.shields.io/badge/5%2B_years_of_experience-0D1117?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/VyrByte">
     <img src="https://img.shields.io/badge/Systems_Engineering_Student-0D1117?style=for-the-badge" />
   </a>
 </div>
@@ -14,7 +11,7 @@
 ---
 
 <div align="center">
-  <h2>⚡ Tech Stack</h2>
+  <h2>⚡ Programming Languages</h2>
 </div>
 
 <div align="center">
@@ -52,18 +49,38 @@
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
         <br>C
       </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+        <br>R
+      </td>
     </tr>
   </table>
 </div>
 
+---
+
 <div align="center">
-  <h3>Backend & Infrastructure</h3>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,docker,githubactions,aws,azure,gcp&theme=dark" />
+  <h2>🎯 Tech Stack</h2>
 </div>
 
 <div align="center">
-  <h3>Databases & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,prisma,maven,gradle,git,github,angular&theme=dark" />
+  <h3>Backend Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi&theme=dark" />
+</div>
+
+<div align="center">
+  <h3>Cloud & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,githubactions&theme=dark" />
+</div>
+
+<div align="center">
+  <h3>Databases</h3>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&theme=dark" />
+</div>
+
+<div align="center">
+  <h3>Build Tools & Package Managers</h3>
+  <img src="https://skillicons.dev/icons?i=maven,gradle,npm,pip,poetry&theme=dark" />
 </div>
 
 ---
@@ -94,23 +111,53 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>Backend Development</h3>
+      <h3>💻 Backend Development</h3>
       <p>
-        • Spring Boot & JPA/Hibernate<br>
-        • Express.js & NestJS<br>
-        • RESTful API Design<br>
-        • WebSocket Implementation<br>
-        • Microservices Architecture
+        • RESTful API Design & Implementation<br>
+        • Express.js & NestJS Applications<br>
+        • Django & Flask Web Applications<br>
+        • FastAPI High-Performance APIs<br>
+        • WebSocket & Real-time Communication<br>
+        • Microservices Architecture<br>
+        • Authentication & Authorization<br>
+        • Performance Optimization<br>
+        • Database Integration
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>DevOps & Cloud</h3>
+      <h3>☁️ DevOps & Infrastructure</h3>
       <p>
         • Docker Containerization<br>
-        • CI/CD with GitHub Actions<br>
-        • AWS, Azure & GCP<br>
-        • Database Optimization<br>
-        • System Scalability
+        • Container Orchestration<br>
+        • CI/CD Pipeline Automation<br>
+        • AWS, Azure & GCP Deployment<br>
+        • Server Configuration & Management<br>
+        • Monitoring & Logging<br>
+        • Scalability & High Availability
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Data Management</h3>
+      <p>
+        • Relational Schema Design<br>
+        • NoSQL Data Modeling<br>
+        • Query Optimization<br>
+        • Indexing & Performance Tuning<br>
+        • Replication & Backup Strategies<br>
+        • Distributed Caching with Redis
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔧 Tools & Methodologies</h3>
+      <p>
+        • Git & GitHub Version Control<br>
+        • Unit & Integration Testing<br>
+        • Technical Documentation<br>
+        • Agile Methodologies<br>
+        • Problem-Solving & Debugging<br>
+        • Scalable Architecture Design
       </p>
     </td>
   </tr>
@@ -119,43 +166,14 @@
 ---
 
 <div align="center">
-  <h2>💼 Professional Experience</h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>5+ Years</strong><br>
-        Software Development
-      </td>
-      <td align="center">
-        <strong>Team Leadership</strong><br>
-        Technical Management
-      </td>
-      <td align="center">
-        <strong>Microservices</strong><br>
-        Distributed Systems
-      </td>
-      <td align="center">
-        <strong>High Performance</strong><br>
-        Query Optimization
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
   <h2>📫 Connect with Me</h2>
 </div>
 
 <div align="center">
-  <a href="mailto:ricardo.s@fruitforge.com">
+  <a href="mailto:ricardo.s@teramont.net">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/TeoremalDev">
+  <a href="https://github.com/VyrByte">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
