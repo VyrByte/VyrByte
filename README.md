@@ -135,11 +135,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VyrByte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VyrByte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VyrByte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VyrByte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=tokyonight&hide_border=true&v=1)
 
 </div>
 
