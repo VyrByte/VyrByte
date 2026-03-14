@@ -135,9 +135,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VyrByte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Profile Details](profile-summary-card-output/tokyonight/0-profile-details.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VyrByte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+
+![Productive Time](profile-summary-card-output/tokyonight/4-productive-time.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=tokyonight&hide_border=true)
 
