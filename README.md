@@ -4,8 +4,8 @@
 
 ### Systems Engineering Student | Backend Developer | DevOps Enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/VyrByte?style=social)](https://github.com/VyrByte)
-[![GitHub stars](https://img.shields.io/github/stars/VyrByte?style=social)](https://github.com/VyrByte)
+[![GitHub followers](https://img.shields.io/github/followers/VyrByte?label=Followers&style=flat-square&color=blue)](https://github.com/VyrByte)
+[![GitHub stars](https://img.shields.io/github/stars/VyrByte?label=Stars&style=flat-square&color=yellow)](https://github.com/VyrByte)
 
 </div>
 
@@ -143,7 +143,7 @@
 
 ![Productive Time](profile-summary-card-output/tokyonight/4-productive-time.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=tokyonight&hide_border=true&v=1)
 
 </div>
 
