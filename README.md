@@ -4,8 +4,8 @@
 
 ### Systems Engineering Student | Backend Developer | DevOps Enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/VyrByte?label=Followers&style=flat-square&color=blue)](https://github.com/VyrByte)
-[![GitHub stars](https://img.shields.io/github/stars/VyrByte?label=Stars&style=flat-square&color=yellow)](https://github.com/VyrByte)
+[![GitHub followers](https://img.shields.io/github/followers/VyrByte?style=social)](https://github.com/VyrByte)
+[![GitHub stars](https://img.shields.io/github/stars/VyrByte?style=social)](https://github.com/VyrByte)
 
 </div>
 
