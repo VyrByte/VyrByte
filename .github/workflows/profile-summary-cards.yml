@@ -2,7 +2,8 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Se ejecuta a las 13:03 UTC en lugar de la medianoche (0 0) para evitar retrasos por saturación
+    - cron: "3 13 * * *"
   workflow_dispatch:
 
 permissions:
