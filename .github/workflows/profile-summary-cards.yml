@@ -2,7 +2,6 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    # Se ejecuta a las 13:03 UTC en lugar de la medianoche (0 0) para evitar retrasos por saturación
     - cron: "3 13 * * *"
   workflow_dispatch:
 
@@ -14,10 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Purge Camo Cache
+        uses: wow-actions/purge-readme@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
