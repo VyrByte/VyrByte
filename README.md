@@ -143,7 +143,7 @@
 
 ![Productive Time](profile-summary-card-output/tokyonight/4-productive-time.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=tokyonight&hide_border=true&v=1)
 
 </div>
 
