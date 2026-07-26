@@ -12,13 +12,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # Necesario para que el commit del cache buster pueda pushear
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
 
       - name: Generate Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
+          # Classic PAT con acceso a privados (ver instrucciones)
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
@@ -26,14 +31,29 @@ jobs:
 
       - name: Update Streak Stats Cache Buster
         run: |
+          set -euo pipefail
           TIMESTAMP=$(date +%s)
-          sed -i -E "s|(https://streak-stats\.demolab\.com\?[^ \)]*)|\1\&date=$TIMESTAMP|g" README.md
-          
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: update cache buster for streak stats" || echo "No changes to commit"
-          git push
+
+          # Actualiza (o añade) el query param date= en la URL de streak-stats
+          if grep -qE 'streak-stats\.demolab\.com' README.md; then
+            if grep -qE 'streak-stats\.demolab\.com\?[^"'\'' >]*([&?])date=' README.md; then
+              sed -i -E "s|(streak-stats\.demolab\.com\?[^\"' >]*)([&?])date=[0-9]+|\1\2date=${TIMESTAMP}|g" README.md
+            else
+              sed -i -E "s|(streak-stats\.demolab\.com\?[^\"' >]*)|\1\&date=${TIMESTAMP}|g" README.md
+            fi
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add README.md profile-summary-card-output || true
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: refresh profile cards and cache buster"
+            git push
+          fi
 
       - name: Purge Camo Cache
         uses: wow-actions/purge-readme@v1
