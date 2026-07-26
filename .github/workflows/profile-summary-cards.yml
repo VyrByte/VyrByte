@@ -22,6 +22,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          THEME_NAME: tokyonight
 
       - name: Purge Camo Cache
         uses: wow-actions/purge-readme@v1
