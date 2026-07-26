@@ -30,7 +30,7 @@
 ## 💻 Tech Stack
 
 ### Languages & Runtimes
-          
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -138,15 +138,12 @@
 <div align="center">
 
 ![Profile Details](profile-summary-card-output/tokyonight/0-profile-details.svg)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VyrByte&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 ![Productive Time](profile-summary-card-output/tokyonight/4-productive-time.svg)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=tokyonight&hide_border=true&v=1)
 
 </div>
-<!--- &v=1 --->
+
 ---
 
 ## 📫 Contact & Professional Links
