@@ -139,7 +139,7 @@
 
 ![Profile Details](profile-summary-card-output/tokyonight/0-profile-details.svg)
 
-![Top Languages](profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VyrByte&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Productive Time](profile-summary-card-output/tokyonight/4-productive-time.svg)
 
