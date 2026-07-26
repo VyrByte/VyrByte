@@ -140,7 +140,7 @@
 ![Profile Details](profile-summary-card-output/tokyonight/0-profile-details.svg)
 ![Top Languages](profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 ![Productive Time](profile-summary-card-output/tokyonight/4-productive-time.svg)
-![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=tokyonight&hide_border=true&cache_seconds=60&date=1785098717&date=1785098881)
+![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=radical&hide_border=true&cache_seconds=60&date=1785098717&date=1785098881)
 
 </div>
 
