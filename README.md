@@ -1,98 +1,155 @@
+<a href="https://github.com/VyrByte">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VyrByte&bg_color=0d1117&color=c9a227&line=e6edf3&point=c9a227&area=true&area_color=c9a227&hide_border=true&custom_title=Contribution%20Activity"
+    alt="Contribution activity graph"
+    width="100%"
+  />
+</a>
+
+<br />
+
 <div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=800&color=E6EDF3&center=true&vCenter=true&width=780&height=60&lines=Ricardo+Soto;Systems+Engineer;Full-Stack+%C2%B7+UI%2FUX-focused;Data+%26+DevOps"
+    alt="Ricardo Soto"
+  />
+</div>
 
-# Ricardo Soto
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Front--End-0D1117?style=for-the-badge&labelColor=161B22&color=C9A227" alt="Full-Stack" />
+  <img src="https://img.shields.io/badge/Also-Data%20%26%20DevOps-0D1117?style=for-the-badge&labelColor=161B22&color=8B949E" alt="Data and DevOps" />
+</p>
 
-**Systems Engineer | Full-Stack Developer | Data Analyst & Scientist | DevOps Specialist**
-
-[![GitHub followers](https://img.shields.io/github/followers/VyrByte?style=flat-square&logo=github&color=21262d&labelColor=161b22)](https://github.com/VyrByte)
-[![GitHub stars](https://img.shields.io/github/stars/VyrByte?style=flat-square&logo=github&color=21262d&labelColor=161b22)](https://github.com/VyrByte)
-![Profile Views](https://komarev.com/ghpvc/?username=VyrByte&color=21262d&style=flat-square)
-
+<div align="center">
+  <a href="mailto:ricardo.s@teramont.net">
+    <img src="https://img.shields.io/badge/Email-ricardo.s%40teramont.net-0D1117?style=for-the-badge&logo=protonmail&logoColor=C9A227&labelColor=161B22&color=0D1117" alt="Email" />
+  </a>
+  <a href="https://github.com/VyrByte">
+    <img src="https://img.shields.io/badge/GitHub-VyrByte-0D1117?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=161B22&color=0D1117" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=VyrByte&style=for-the-badge&color=c9a227&label=PROFILE+VIEWS&labelColor=161b22" alt="Profile views" />
 </div>
 
 ---
 
-## Profile Summary
+### What I build
 
-Systems Engineer specializing in scalable software architecture, data analytics, and cloud infrastructure. Experienced across the full software development lifecycle with high affinity for Front-End engineering, combined with robust back-end systems, statistical data workflows, and automated CI/CD pipelines.
+I design and ship software across the stack — with a strong bias toward clean interfaces, solid APIs, and systems that stay maintainable in production.
 
----
+I move comfortably between product UI, backend services, data work, and the pipelines that keep everything running.
 
-## Core Competencies
-
-### Full-Stack Engineering
-* **Front-End Emphasis:** Architecture of modular, responsive, and high-performance user interfaces.
-* **Back-End Services:** RESTful & GraphQL API design, microservices, and secure authentication pipelines.
-* **Optimization:** Client-side state management, bundle size reduction, and rendering performance.
-
-### Data Science & Analytics
-* **Exploratory Data Analysis:** Statistical modeling, dataset cleansing, and pattern recognition.
-* **Business Intelligence:** Data visualization, metric extraction, and decision-support modeling.
-* **Data Engineering:** Query execution plan optimization, SQL/NoSQL indexing, and ETL pipelines.
-
-### DevOps & Infrastructure
-* **Containerization:** Environment standardization and process isolation using Docker.
-* **CI/CD Pipelines:** Automated testing, build workflows, and deployment via GitHub Actions.
-* **Cloud Administration:** Server provisioning, Linux hardening, and Nginx reverse proxy configuration.
+| Area | What that looks like |
+| :--- | :--- |
+| **Full-Stack / Front-End** | Interfaces that feel intentional, design systems, and APIs that match the product |
+| **Data** | Analysis, pipelines, and insights that support real decisions |
+| **DevOps** | Containers, CI/CD, Linux environments, and cloud-ready delivery |
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-**Languages & Runtimes**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=ffffff" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=ffffff" alt="C#" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000" alt="C" />
+</p>
 
-**Frameworks & Libraries**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff" alt="Django" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=ffffff" alt="Flutter" />
+</p>
 
-**Databases & Caching**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff" alt="Redis" />
+</p>
 
-**Infrastructure & Operations**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff" alt="Bash" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=ffffff" alt="Nginx" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+</p>
 
 ---
 
-## Metrics & Activity
+### GitHub Pulse
 
 <div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VyrByte&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C9A227&icon_color=C9A227&text_color=C9D1D9&ring_color=C9A227&cache_seconds=1800"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=VyrByte&theme=gotham&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=C9D1D9&dates=8B949E&cache_seconds=60&date=0"
+    alt="GitHub Streak"
+    height="165"
+  />
+</div>
 
-![Profile Details](profile-summary-card-output/dracula/0-profile-details.svg)
-![Top Languages](profile-summary-card-output/dracula/2-most-commit-language.svg)
-![Productive Time](profile-summary-card-output/dracula/4-productive-time.svg)
-![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=dracula&hide_border=true&cache_seconds=60)
+<br />
 
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/VyrByte/VyrByte/main/profile-summary-card-output/gotham/0-profile-details.svg"
+    alt="Profile details"
+    width="100%"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/VyrByte/VyrByte/main/profile-summary-card-output/gotham/1-repos-per-language.svg"
+    alt="Languages by repository"
+    height="200"
+  />
+  <img
+    src="https://raw.githubusercontent.com/VyrByte/VyrByte/main/profile-summary-card-output/gotham/2-most-commit-language.svg"
+    alt="Most used languages by commits"
+    height="200"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/VyrByte/VyrByte/main/profile-typing-card-output/gotham/3-stats.svg"
+    alt="Stats overview"
+    height="200"
+  />
+  <img
+    src="https://raw.githubusercontent.com/VyrByte/VyrByte/main/profile-summary-card-output/gotham/4-productive-time.svg"
+    alt="Productive time"
+    height="200"
+  />
 </div>
 
 ---
 
-## Contact
+### Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ricardo.s@teramont.net-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ricardo.s@teramont.net)
-[![GitHub](https://img.shields.io/badge/GitHub-VyrByte-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VyrByte)
+**Ricardo Soto** · Systems Engineer  
+[ricardo.s@teramont.net](mailto:ricardo.s@teramont.net) · [github.com/VyrByte](https://github.com/VyrByte)
 
 </div>
