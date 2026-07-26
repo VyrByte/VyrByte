@@ -1,122 +1,48 @@
 <div align="center">
 
-# 👋 Hi, I'm Ricardo Soto
+# Ricardo Soto
 
-### Systems Engineering Student | Backend Developer | DevOps Enthusiast
+### Systems Engineer | Full-Stack Developer | Data Analyst & Scientist | DevOps Specialist
 
-[![GitHub followers](https://img.shields.io/github/followers/VyrByte?style=social)](https://github.com/VyrByte)
-[![GitHub stars](https://img.shields.io/github/stars/VyrByte?style=social)](https://github.com/VyrByte)
+[![GitHub followers](https://img.shields.io/github/followers/VyrByte?style=flat-square&label=Followers&color=091217)](https://github.com/VyrByte)
+[![GitHub stars](https://img.shields.io/github/stars/VyrByte?style=flat-square&label=Stars&color=091217)](https://github.com/VyrByte)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Executive Summary
 
-
-```
-
-👨‍💻 Backend Developer focused on building scalable architecture
-🎓 Systems Engineering Student
-🌱 Learning DevOps practices and cloud infrastructure
-💡 Passionate about automation and high-performance solutions
-🐳 Exploring containerization, microservices, and CI/CD workflows
-🔧 Always curious about software engineering best practices
-
-```
+Systems Engineer specializing in scalable architecture, data analytics, and cloud infrastructure operations. Proven capabilities across the full software engineering lifecycle, combining strong Front-End product design with robust Back-End systems, data science workflows, and continuous integration pipelines.
 
 ---
 
-## 💻 Tech Stack
-
-### Languages & Runtimes
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Frameworks & Backend Ecosystem
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Javalin](https://img.shields.io/badge/Javalin-E65100?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Data Management & Caching
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Infrastructure, DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Build Automation & Core Tooling
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-## 🎯 Core Competencies
+## Technical Specializations & Roles
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 💻 Backend Engineering
-- **API Design:** RESTful services and robust architectural patterns.
-- **Microservices:** Decoupled systems and event-driven communication.
-- **Security:** Implementations of JWT, OAuth2, and secure route guarding.
-- **Real-Time:** Bi-directional data streaming using WebSockets.
-- **Testing:** Comprehensive Unit, Integration, and E2E testing workflows.
+### Full-Stack Engineering
+- **Front-End Emphasis:** Architecture of modular, responsive, and high-performance user interfaces.
+- **Back-End Services:** Development of RESTful/GraphQL APIs, microservices, and secure authentication flows.
+- **Client State & Optimization:** Advanced state management, client-side caching, and bundle size reduction.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🗄️ Database Administration
-- **Relational Systems:** Schema design and advanced query writing.
-- **NoSQL Solutions:** Document-based data modeling and optimization.
-- **Performance:** Query indexing, execution plan analysis, and optimization.
-- **Caching:** Distributed state management and caching using Redis.
-- **Data Lifecycle:** Migration tracking, versioning, and disaster recovery.
+### Data Science & Analytics
+- **Exploratory Analysis:** Statistical modeling, feature engineering, and data cleaning workflows.
+- **Insight Extraction:** Transformation of complex datasets into actionable business intelligence.
+- **Data Pipeline Operations:** Design and execution of ETL pipelines and database query optimization.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🌱 Infrastructure & DevOps
-- **Containerization:** Environment standardization via Docker.
-- **Automation:** Designing delivery pipelines with GitHub Actions.
-- **Cloud Computing:** Infrastructure provisioning across AWS, GCP, and Azure.
-- **Environment Control:** Linux server administration and Nginx configurations.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 Software Engineering Practices
-- **Design Patterns:** Rigorous application of SOLID and clean code principles.
-- **Methodologies:** Agile framework execution and sprint participation.
-- **Collaboration:** High-standard code reviews and peer programming.
-- **Documentation:** Precise technical writing and system architecture mapping.
+### DevOps & Infrastructure
+- **Containerization & Deployment:** Standardization of isolated environments via Docker.
+- **CI/CD Automation:** Construction of reliable build, test, and release pipelines using GitHub Actions.
+- **Cloud Administration:** Infrastructure provisioning, Linux server hardening, and reverse proxy setup.
 
 </td>
 </tr>
@@ -124,43 +50,65 @@
 
 ---
 
-## 📚 Areas of Specialization & Continuous Learning
+## Tech Stack & Tooling
 
-* **Orchestration & Scale:** Deepening knowledge in Kubernetes and advanced Docker Compose workflows.
-* **Deployment Pipelines:** Implementation of advanced GitOps, Canary, and Blue-Green deployment strategies.
-* **Cloud Architecture:** Infrastructure as Code (IaC) principles and cloud-native design.
-* **Observability:** Integrating distributed tracing, log aggregation, and system monitoring tools.
+### Languages & Runtimes
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+### Frameworks & Ecosystem
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### Data Management, Caching & Analytics
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Infrastructure, Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📊 Performance & Analytics
+## Analytics & Engineering Metrics
 
 <div align="center">
 
-![Profile Details](profile-summary-card-output/radical/0-profile-details.svg)
-![Top Languages](profile-summary-card-output/radical/2-most-commit-language.svg)
-![Productive Time](profile-summary-card-output/radical/4-productive-time.svg)
-![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=radical&hide_border=true&cache_seconds=60&date=1785098717&date=1785098881)
+![Profile Details](profile-summary-card-output/gotham/0-profile-details.svg)
+![Top Languages](profile-summary-card-output/gotham/2-most-commit-language.svg)
+![Productive Time](profile-summary-card-output/gotham/4-productive-time.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=VyrByte&theme=gotham&hide_border=true&cache_seconds=60)
 
 </div>
 
 ---
 
-## 📫 Contact & Professional Links
+## Contact & Professional Links
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ricardo.s@teramont.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo.s@teramont.net)
-[![GitHub](https://img.shields.io/badge/GitHub-VyrByte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VyrByte)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 "First, solve the problem. Then, write the code." — John Johnson
-
-![Profile Views](https://komarev.com/ghpvc/?username=VyrByte&color=blue&style=flat-square)
+[![Email](https://img.shields.io/badge/Email-ricardo.s@teramont.net-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ricardo.s@teramont.net)
+[![GitHub](https://img.shields.io/badge/GitHub-VyrByte-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VyrByte)
 
 </div>
