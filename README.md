@@ -92,11 +92,6 @@ I move comfortably between product UI, backend services, data work, and the pipe
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=VyrByte&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C9A227&icon_color=C9A227&text_color=C9D1D9&ring_color=C9A227&cache_seconds=1800"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
     src="https://streak-stats.demolab.com?user=VyrByte&theme=gotham&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=C9D1D9&dates=8B949E&cache_seconds=60&date=0"
     alt="GitHub Streak"
     height="165"
@@ -132,7 +127,7 @@ I move comfortably between product UI, backend services, data work, and the pipe
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/VyrByte/VyrByte/main/profile-typing-card-output/gotham/3-stats.svg"
+    src="https://raw.githubusercontent.com/VyrByte/VyrByte/main/profile-summary-card-output/gotham/3-stats.svg"
     alt="Stats overview"
     height="200"
   />
