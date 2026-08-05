@@ -92,7 +92,7 @@ I move comfortably between product UI, backend services, data work, and the pipe
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=VyrByte&theme=gotham&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=C9D1D9&dates=8B949E&cache_seconds=60&date=1785886250"
+    src="https://streak-stats.demolab.com?user=VyrByte&theme=gotham&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=C9D1D9&dates=8B949E&cache_seconds=60&date=1785972552"
     alt="GitHub Streak"
     height="165"
   />
